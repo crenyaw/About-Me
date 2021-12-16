@@ -2,4 +2,4 @@
 - 👀 I’m interested in automating accounting processes.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on fun, useful, intermediate projects!
-- 📫 How to reach me: 
+- 📫 How to reach me: through my LinkedIn on my profile.
